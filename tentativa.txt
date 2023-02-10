@@ -1,0 +1,4 @@
+arquivo.txt
+
+alteração.txt
+[
